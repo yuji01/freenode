@@ -5,3 +5,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui9r+mTtuebtOi/niIsDQogICJhZGQiOiAicnku
 ss://YWVzLTEyOC1nY206ODJlMDU2YzAzNjU2NDI4Mw==@nleanrs.wqjbvw.lol:40212#%E5%A5%B6%E6%98%94Hong%2BKong%2B03
 trojan://a7b344ec-fa74-4b16-814d-77696f8d4dee@103.81.85.238:443?security=tls&sni=glc.hruqoaw.cn&type=tcp&headerType=none#%E8%B6%8A%E5%8D%97
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-1.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%E2%80%9CIEPL%E2%80%9D
+socks://MTIzNDU6MTIzNDU=@34.150.74.88:12345#gcphk
